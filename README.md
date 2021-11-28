@@ -18,4 +18,4 @@ Please reach out to me at `hello@iashris.com` if you make use of this study.
 
 ## Images
 
-[Bengali](https://github.com/indiainpixels/jhakkas/blob/main/Bangla-Expressions.jpg)
+[Bengali](https://github.com/indiainpixels/jhakkas/blob/main/Bangla-Expressions.jpg?raw=true)
