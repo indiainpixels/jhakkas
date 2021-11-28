@@ -18,5 +18,14 @@ Please reach out to me at `hello@iashris.com` if you make use of this study.
 
 ## Images
 
+### Bengali
 ![Bengali](https://github.com/indiainpixels/jhakkas/blob/main/Bangla-Expressions.jpg?raw=true)
+
+### Tamil
 ![Tamil](https://github.com/indiainpixels/jhakkas/blob/main/Tamil.jpg?raw=true)
+
+### Malayalam
+![Malayalam](https://github.com/indiainpixels/jhakkas/blob/main/Malayalam.jpg?raw=true)
+
+### Hindi
+![Hindi](https://github.com/indiainpixels/jhakkas/blob/main/Hindi.jpg?raw=true)
